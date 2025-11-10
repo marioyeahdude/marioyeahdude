@@ -1,6 +1,7 @@
 ## Hi hi, I'm Mario 👋
 
-https://img.shields.io/github/commit-activity/w/marioyeahdude/marioyeahdude
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/marioyeahdude/marioyeahdude">
+
 
 <!--
 **marioyeahdude/marioyeahdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
