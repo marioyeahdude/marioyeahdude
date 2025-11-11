@@ -9,14 +9,14 @@ Actualmente estoy **enfocado en el análisis y la ciencia de datos**, combinando
 
 ## :brain: Lo que me define
 
-- :graduation_cap: Más de 10 años de experiencia en educación y gestión de aprendizaje en línea.  
+- 🎓 Más de 10 años de experiencia en educación y gestión de aprendizaje en línea.  
 - 📊 Enfocado en transformar datos en historias y decisiones claras.  
 - 💡 Apasionado por el aprendizaje continuo, la automatización y la comunicación efectiva de resultados.  
 - 🤝 Interesado en colaborar en proyectos de **Data Analysis**, **Machine Learning** y **Data Storytelling**.
 
 ---
 
-## :hammer_and_wrench Tecnologías y herramientas
+## :hammer_and_wrench: Tecnologías y herramientas
 
 **Lenguajes:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=FFDD54)&nbsp;&nbsp;
