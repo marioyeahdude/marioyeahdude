@@ -1,6 +1,5 @@
-# 👋 ¡Hola! Soy Mario Romero  
-
-Read in <img alt="Static Badge" src="https://img.shields.io/badge/lang-es-red?link=https%3A%2F%2Fgithub.com%2Fmarioyeahdude%2Fmarioyeahdude%2Fblob%2Fmain%2FREADME.md">
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" height="40" width="60"> ¡Hola! Soy Mario Romero
+ &nbsp;&nbsp;&nbsp; Read in <img alt="Static Badge" src="https://img.shields.io/badge/lang-es-red?link=https%3A%2F%2Fgithub.com%2Fmarioyeahdude%2Fmarioyeahdude%2Fblob%2Fmain%2FREADME.es.md">
 
 Soy un **educador en transición hacia el mundo del Data Science y el Análisis de Datos**, combinando mi experiencia en enseñanza con una sólida formación técnica en programación, estadística y visualización de datos.  
 Actualmente estoy completando la **Ruta de Fundamentos de Data Science y AI** en [Platzi](https://platzi.com/), donde desarrollo proyectos enfocados en **Python, análisis exploratorio, visualización y modelos de Machine Learning**.
