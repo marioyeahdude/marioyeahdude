@@ -3,17 +3,23 @@
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/marioyeahdude/marioyeahdude">
 
 
-<!--
-**marioyeahdude/marioyeahdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:zap: ACTIVIDAD RECIENTE
 
-Here are some ideas to get you started:
+name: Update README
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+on:
+  schedule:
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v4.2.2
+      
+      - uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
