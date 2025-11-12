@@ -3,7 +3,7 @@
 **Computer Systems Engineer** with a technical background in computing and extensive professional experience in the education field.
 Currently **focused on data analysis and data science**, combining logical thinking with a passion for communicating complex ideas clearly and visually. 
 
- &nbsp;&nbsp;&nbsp; Read in [![en](https://img.shields.io/badge/lang-es-red)](README.es.md)
+ &nbsp;&nbsp;&nbsp; [![en](https://img.shields.io/badge/Leer_en-español-red)](README.es.md)
 
 ---
 
