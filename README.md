@@ -1,7 +1,7 @@
-# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" height="40" width="60"> ¡Hola hola! Soy Mario Romero
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" height="40" width="60"> ¡Hi hi! I'm Mario Romero
 
-I’m a **Computer Systems Engineer** with a technical background in computing and extensive professional experience in the education field.
-I’m currently **focused on data analysis and data science**, combining logical thinking with a passion for communicating complex ideas clearly and visually. 
+**Computer Systems Engineer** with a technical background in computing and extensive professional experience in the education field.
+Currently **focused on data analysis and data science**, combining logical thinking with a passion for communicating complex ideas clearly and visually. 
 
  &nbsp;&nbsp;&nbsp; Read in [![en](https://img.shields.io/badge/lang-es-red)](README.es.md)
 
