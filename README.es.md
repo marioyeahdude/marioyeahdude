@@ -9,10 +9,11 @@ Actualmente estoy **enfocado en el análisis y la ciencia de datos**, combinando
 
 ## :brain: Lo que me define
 
+- 💻 Ingeniero con base sólida en programación y lógica computacional.  
 - 🎓 Más de 10 años de experiencia en educación y gestión de aprendizaje en línea.  
 - 📊 Enfocado en transformar datos en historias y decisiones claras.  
 - 💡 Apasionado por el aprendizaje continuo, la automatización y la comunicación efectiva de resultados.  
-- 🤝 Interesado en colaborar en proyectos de **Data Analysis**, **Machine Learning** y **Data Storytelling**.
+- 🚀 Interesado en colaborar en proyectos de **Data Analysis**, **Machine Learning** y **Data Storytelling**.
 
 ---
 
@@ -41,35 +42,20 @@ Actualmente estoy **enfocado en el análisis y la ciencia de datos**, combinando
 
 ---
 
-## 📂 Proyectos destacados
-
-🔹 [**Análisis Exploratorio de Datos de Educación**](#)  
-Exploración de patrones de retención y rendimiento académico utilizando Python y visualizaciones interactivas.
-
-🔹 [**Predicción de Satisfacción Estudiantil**](#)  
-Modelo predictivo con Scikit-learn para analizar la relación entre variables de participación y satisfacción.
-
-🔹 [**Dashboard de Indicadores Académicos**](#)  
-Dashboard dinámico con datos simulados, diseñado en Python y Plotly, para monitorear métricas educativas clave.
-
-*(Actualizando constantemente a medida que avanzo en la ruta de Platzi.)*
-
----
-
 ## 🌱 Actualmente aprendiendo
 
-- Estadística inferencial y probabilidad aplicada  
-- Limpieza y visualización avanzada de datos  
 - Fundamentos de Machine Learning  
-- Storytelling con datos y comunicación de insights  
+- Limpieza y visualización avanzada de datos  
+- Estadística inferencial y probabilidad aplicada  
+- Data Storytelling y comunicación de insights  
 
 ---
 
 ## 💬 Hablemos
 
 Si te interesa colaborar o simplemente conversar sobre educación, datos y aprendizaje continuo:  
-📧 [mario.romero@email.com](mailto:mario.romero@email.com)  
-💼 [LinkedIn](#) · 🧑‍💻 [Platzi](#)
+📧 [mariorom1993@gmail.com](mailto:mariorom1993@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mariorom1993/)
 
 ---
 
