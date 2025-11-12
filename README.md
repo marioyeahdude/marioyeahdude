@@ -1,64 +1,63 @@
-# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" height="40" width="60"> ¡Hola! Soy Mario Romero
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" height="40" width="60"> ¡Hola hola! Soy Mario Romero
 
-Soy un **educador en transición hacia el mundo del Data Science y el Análisis de Datos**, combinando mi experiencia en enseñanza con una sólida formación técnica en programación, estadística y visualización de datos.  
-Actualmente estoy completando la **Ruta de Fundamentos de Data Science y AI** en [Platzi](https://platzi.com/), donde desarrollo proyectos enfocados en **Python, análisis exploratorio, visualización y modelos de Machine Learning**.
+I’m a **Computer Systems Engineer** with a technical background in computing and extensive professional experience in the education field.
+I’m currently **focused on data analysis and data science**, combining logical thinking with a passion for communicating complex ideas clearly and visually. 
 
- &nbsp;&nbsp;&nbsp; Leer en [![en](https://img.shields.io/badge/lang-es-red)](README.es.md)
-
- ---
-
-## 🧠 Lo que me define
-
-- 🎓 Más de [X] años de experiencia en educación y gestión de aprendizaje en línea.  
-- 📊 Enfocado en transformar datos en historias y decisiones claras.  
-- 💡 Apasionado por el aprendizaje continuo, la automatización y la comunicación efectiva de resultados.  
-- 🤝 Interesado en colaborar en proyectos de **Data Analysis**, **Machine Learning** o **Data Storytelling**.
+ &nbsp;&nbsp;&nbsp; Read in [![en](https://img.shields.io/badge/lang-es-red)](README.es.md)
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## :brain: What defines me
 
-**Lenguajes:**  
-🐍 Python · 🧮 SQL · 📊 R (en progreso)
+- 💻 Engineer with a strong foundation in programming and computational logic.  
+- 🎓 Over 10 years of experience in education and online learning management.  
+- 📊 Focused on turning data into stories and actionable insights.  
+- 💡 Passionate about lifelong learning, automation, and effective data communication.  
+- 🚀 Interested in collaborating on **Data Analysis**, **Machine Learning**, and **Data Storytelling** projects.
+
+
+---
+
+## :hammer_and_wrench: Technologies and tools
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=FFDD54)&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/SQL-0A253E?logo=sqlite&logoColor=yellow)&nbsp;&nbsp;
+![R](https://img.shields.io/badge/R-%23276DC3?logo=R&logoColor=white) (in progress)
 
 **Bibliotecas:**  
-Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)&nbsp;&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)&nbsp;&nbsp;
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=black) &nbsp;&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-darkgreen?logo=chartdotjs&logoColor=white)&nbsp;&nbsp;
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
 
 **Herramientas:**  
-Jupyter Notebooks · Google Colab · Git & GitHub · Google Sheets · Excel
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter&logoColor=white)&nbsp;&nbsp;
+![Google Collab](https://img.shields.io/badge/Google_Collab-white?logo=googlecolab&logoColor=F9AB00)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)&nbsp;&nbsp;
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets&logoColor=white)&nbsp;&nbsp;
+![Seaborn](https://img.shields.io/badge/Excel-007C3C?logo=libreofficecalc&logoColor=white)&nbsp;&nbsp;
+
 
 ---
 
-## 📂 Proyectos destacados
+## 🌱 Currently learning
 
-🔹 [**Análisis Exploratorio de Datos de Educación**](#)  
-Exploración de patrones de retención y rendimiento académico utilizando Python y visualizaciones interactivas.
-
-🔹 [**Predicción de Satisfacción Estudiantil**](#)  
-Modelo predictivo con Scikit-learn para analizar la relación entre variables de participación y satisfacción.
-
-🔹 [**Dashboard de Indicadores Académicos**](#)  
-Dashboard dinámico con datos simulados, diseñado en Python y Plotly, para monitorear métricas educativas clave.
-
-*(Actualizando constantemente a medida que avanzo en la ruta de Platzi.)*
+- Machine Learning fundamentals  
+- Advanced data cleaning and visualization  
+- Inferential statistics and applied probability  
+- Data storytelling and insight communication  
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 💬 Let's connect
 
-- Estadística inferencial y probabilidad aplicada  
-- Limpieza y visualización avanzada de datos  
-- Fundamentos de Machine Learning  
-- Storytelling con datos y comunicación de insights  
-
----
-
-## 💬 Hablemos
-
-Si te interesa colaborar o simplemente conversar sobre educación, datos y aprendizaje continuo:  
-📧 [mario.romero@email.com](mailto:mario.romero@email.com)  
-💼 [LinkedIn](#) · 🧑‍💻 [Platzi](#)
+If you’d like to collaborate or chat about education, data, and lifelong learning:  
+📧 [mariorom1993@gmail.com](mailto:mariorom1993@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mariorom1993/)
 
 ---
 
-⭐ *"La educación me enseñó a enseñar. La ciencia de datos me enseña a descubrir."*
+⭐ *"Education taught me how to teach. Data Science teaches me how to discover"*
