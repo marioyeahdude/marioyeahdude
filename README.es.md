@@ -3,7 +3,7 @@
 Soy **Ingeniero en Sistemas Computacionales** con formación técnica en computación y una amplia experiencia profesional en el ámbito educativo.  
 Actualmente estoy **enfocado en el análisis y la ciencia de datos**, combinando mi pensamiento lógico con mi pasión por comunicar ideas complejas de manera clara y visual.  
 
- &nbsp;&nbsp;&nbsp; Read in [![en](https://img.shields.io/badge/lang-en-blue)](README.md)
+ &nbsp;&nbsp;&nbsp; [![en](https://img.shields.io/badge/Read_in-English-blue)](README.md)
 
 ---
 
