@@ -1,7 +1,7 @@
 # <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" height="40" width="60"> ¡Hi hi! I'm Mario Romero
 
-**Computer Systems Engineer** with a technical background in computing and extensive professional experience in the education field.
-Currently **focused on data analysis and data science**, combining logical thinking with a passion for communicating complex ideas clearly and visually. 
+**Computer Systems Engineer** with a strong foundation in programming and computational logic, and over 10 years of professional experience in education and online learning management.
+Currently **focused on Data Analysis and Data Science**, combining logical thinking with a passion for communicating complex ideas clearly and visually. 
 
  &nbsp;&nbsp;&nbsp; [![en](https://img.shields.io/badge/Leer_en-español-red)](README.es.md)
 
@@ -9,10 +9,10 @@ Currently **focused on data analysis and data science**, combining logical think
 
 ## :brain: What defines me
 
-- 💻 Engineer with a strong foundation in programming and computational logic.  
-- 🎓 Over 10 years of experience in education and online learning management.  
+- 💻 Engineer with a strong foundation in algorithms, programming, and problem-solving.
 - 📊 Focused on turning data into stories and actionable insights.  
-- 💡 Passionate about lifelong learning, automation, and effective data communication.  
+- 💡 Passionate about lifelong learning, automation, and effective data communication.
+- 🎓 Over 10 years of experience leading and managing online education environments.
 - 🚀 Interested in collaborating on **Data Analysis**, **Machine Learning**, and **Data Storytelling** projects.
 
 
@@ -54,7 +54,11 @@ Currently **focused on data analysis and data science**, combining logical think
 
 ## 💬 Let's connect
 
-If you’d like to collaborate or chat about education, data, and lifelong learning:  
+Interested in collaborating on:
+- Data Analysis projects
+- Machine Learning applications
+- Educational data & learning analytics
+- Data storytelling initiatives 
 📧 [mariorom1993@gmail.com](mailto:mariorom1993@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mariorom1993/)
 
