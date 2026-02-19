@@ -65,6 +65,7 @@ Interesado en colaborar en:
 - Aplicaciones de Machine Learning
 - Datos educativos y learning analytics
 - Iniciativas de Data Storytelling
+  
 📧 [mariorom1993@gmail.com](mailto:mariorom1993@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mariorom1993/)
 
