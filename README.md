@@ -65,7 +65,8 @@ Interested in collaborating on:
 - Data Analysis projects
 - Machine Learning applications
 - Educational data & learning analytics
-- Data storytelling initiatives 
+- Data storytelling initiatives
+  
 📧 [mariorom1993@gmail.com](mailto:mariorom1993@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mariorom1993/)
 
