@@ -1,7 +1,7 @@
 # <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" height="40" width="60"> ¡Hola hola! Soy Mario Romero
 
-Soy **Ingeniero en Sistemas Computacionales** con formación técnica en computación y una amplia experiencia profesional en el ámbito educativo.  
-Actualmente estoy **enfocado en el análisis y la ciencia de datos**, combinando mi pensamiento lógico con mi pasión por comunicar ideas complejas de manera clara y visual.  
+Soy **Ingeniero en Sistemas Computacionales** con una sólida base en programación y lógica computacional, y más de 10 años de experiencia profesional en educación y gestión de entornos de aprendizaje en línea. 
+Actualmente estoy **enfocado en el Análisis y la Ciencia de Datos**, combinando mi pensamiento lógico con mi pasión por comunicar ideas complejas de manera clara y visual.  
 
  &nbsp;&nbsp;&nbsp; [![en](https://img.shields.io/badge/Read_in-English-blue)](README.md)
 
@@ -10,9 +10,9 @@ Actualmente estoy **enfocado en el análisis y la ciencia de datos**, combinando
 ## :brain: Lo que me define
 
 - 💻 Ingeniero con base sólida en programación y lógica computacional.  
-- 🎓 Más de 10 años de experiencia en educación y gestión de aprendizaje en línea.  
 - 📊 Enfocado en transformar datos en historias y decisiones claras.  
-- 💡 Apasionado por el aprendizaje continuo, la automatización y la comunicación efectiva de resultados.  
+- 💡 Apasionado por el aprendizaje continuo, la automatización y la comunicación efectiva de resultados.
+- 🎓 Más de 10 años de experiencia en educación y gestión de aprendizaje en línea.  
 - 🚀 Interesado en colaborar en proyectos de **Data Analysis**, **Machine Learning** y **Data Storytelling**.
 
 ---
@@ -51,9 +51,13 @@ Actualmente estoy **enfocado en el análisis y la ciencia de datos**, combinando
 
 ---
 
-## 💬 Hablemos
+## 💬 Conectemos
 
-Si te interesa colaborar o simplemente conversar sobre educación, datos y aprendizaje continuo:  
+Interesado en colaborar en:
+- Proyectos de Análisis de Datos
+- Aplicaciones de Machine Learning
+- Datos educativos y learning analytics
+- Iniciativas de Data Storytelling
 📧 [mariorom1993@gmail.com](mailto:mariorom1993@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mariorom1993/)
 
