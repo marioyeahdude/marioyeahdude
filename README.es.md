@@ -7,6 +7,13 @@ Actualmente estoy **enfocado en el Análisis y la Ciencia de Datos**, combinando
 
 ---
 
+## 📊 Proyectos destacados
+
+- [Incidencia Delictiva Municipal](https://github.com/marioyeahdude/marioyeahdude/blob/main/Crime_Incidence.ipynb) 
+- [Quejas del Buró Comercial (PROFECO)](https://github.com/marioyeahdude/marioyeahdude/blob/main/PROFECO_Complaints.ipynb)
+
+---
+
 ## :brain: Lo que me define
 
 - 💻 Ingeniero con base sólida en programación y lógica computacional.  
