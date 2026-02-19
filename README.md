@@ -7,6 +7,13 @@ Currently **focused on Data Analysis and Data Science**, combining logical think
 
 ---
 
+## 📊 Featured projects
+
+- [Municipal Crime Incidence](https://github.com/marioyeahdude/marioyeahdude/blob/main/Crime_Incidence.ipynb) 
+- [Business Bureau Complaints](https://github.com/marioyeahdude/marioyeahdude/blob/main/PROFECO_Complaints.ipynb)
+
+---
+
 ## :brain: What defines me
 
 - 💻 Engineer with a strong foundation in algorithms, programming, and problem-solving.
